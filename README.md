@@ -29,7 +29,7 @@ Senior Solutions Architect at AWS specializing in healthcare and life sciences, 
 ### Travel & Aviation Enthusiast
 - ✈️ [FlightRadar24 Profile](https://my.flightradar24.com/vwang1111) - Tracking my aviation adventures
 - 🌍 [Google Maps Reviews](https://www.google.com/maps/contrib/110371788462060280274/reviews) - Sharing travel experiences and discoveries
-- 💺 [FlyerTalk Contributions](https://www.flyertalk.com/forum/search.php?searchid=63443891&query=) - Active in aviation community discussions
+- 💺 [FlyerTalk Contributions](https://www.flyertalk.com/forum/search.php?searchid=63443976&query=) - Active in aviation community discussions
 
 ## 📫 Connect With Me
 - GitHub: [@VWang1111](https://github.com/VWang1111)
