@@ -10,7 +10,7 @@ Senior Solutions Architect at AWS specializing in healthcare and life sciences, 
   - [Associated GitHub Repository](https://github.com/aws-samples/Serverless-Semantic-Video-Search-Vector-Database-and-a-Multi-Modal-Generative-Al-Embeddings-Model)
 
 - [Clinical Trial Patient Matching](https://github.com/aws-samples/patient-matching-of-clinical-trials-using-generative-ai) - Workshop and codebase demonstrating GenAI applications in healthcare
-- [Support for Bi-Directional Streaming in Amazon Sagemaker AI](https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/)
+- [Support for Bi-Directional Streaming in Amazon Sagemaker AI](https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/) - Lead Solution Architect for the integration between launch customer Deepgram and the Amazon Sagemaker AI Engineering team.
 
 ### Technical Leadership
 - [Multi-tenant Architecture Best Practices](https://aws.amazon.com/startups/learn/securing-and-scaling-multi-tenant-applications) - AWS Twitch Livestream Startups presentation on securing and scaling multi-tenant systems
