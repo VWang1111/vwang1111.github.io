@@ -12,6 +12,7 @@ Senior Solutions Architect at AWS specializing in healthcare and life sciences, 
 - [Clinical Trial Patient Matching](https://github.com/aws-samples/patient-matching-of-clinical-trials-using-generative-ai) - Workshop and codebase demonstrating GenAI applications in healthcare
 - [Support for Bi-Directional Streaming in Amazon Sagemaker AI](https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/) - Lead Solution Architect for the integration between launch customer Deepgram and the Amazon Sagemaker AI Engineering team.
 - [Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation](https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/) Lead Developer for integration between Amazon Sagemaker and AWS IAM Temporary Delegation.
+- [Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics](https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/) Lead Developer for enhanced metrics integration for Amazon Sagemaker. 
 
 ### Technical Leadership
 - [Multi-tenant Architecture Best Practices](https://aws.amazon.com/startups/learn/securing-and-scaling-multi-tenant-applications) - AWS Twitch Livestream Startups presentation on securing and scaling multi-tenant systems
